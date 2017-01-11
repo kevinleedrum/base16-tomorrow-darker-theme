@@ -11,6 +11,6 @@
   "repository": "https://github.com/kevinleedrum/base16-tomorrow-darker-theme",
   "license": "MIT",
   "engines": {
-    "atom": ">0.49.0"
+    "atom": ">= 1.13"
   }
 }
